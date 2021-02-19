@@ -1,0 +1,32 @@
+<svg id="a9e0c025-c011-4b58-8696-cad45a72c69c" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 384.70697 203.04945">
+  <defs>
+    <linearGradient id="b403a065-efe8-431e-8454-f6e9147cf2ef" data-name="Безымянный градиент 3" x1="1320.35956" y1="267.30487" x2="1283.57623" y2="139.02615" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4591ff" stop-opacity="0"/>
+      <stop offset="0.48603" stop-color="#92beff" stop-opacity="0.3684"/>
+      <stop offset="0.83475" stop-color="#c4dcff" stop-opacity="0.60723"/>
+      <stop offset="1" stop-color="#d7e7ff" stop-opacity="0.7"/>
+    </linearGradient>
+    <radialGradient id="e8627704-f0aa-480b-a147-761875f72083" data-name="Безымянный градиент 2" cx="319.11149" cy="82.3186" r="31.58076" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d7e7ff" stop-opacity="0.7"/>
+      <stop offset="0.13684" stop-color="#d3e5ff" stop-opacity="0.6824"/>
+      <stop offset="0.28725" stop-color="#c9deff" stop-opacity="0.63052"/>
+      <stop offset="0.44413" stop-color="#b7d4ff" stop-opacity="0.54429"/>
+      <stop offset="0.60553" stop-color="#9dc5ff" stop-opacity="0.42353"/>
+      <stop offset="0.77043" stop-color="#7db2ff" stop-opacity="0.26814"/>
+      <stop offset="0.93582" stop-color="#569bff" stop-opacity="0.08092"/>
+      <stop offset="1" stop-color="#4591ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <title>diag</title>
+  <path d="M1098.59341,220.74725s138.76555-21.081,201.62637-59.33051c52.87912-32.17583,90.64615-76.25547,182.50549-54.70821V220.74725Z" transform="translate(-1098.51831 -18.1978)" style="stroke: #fff;stroke-miterlimit: 10;opacity: 0.5;fill: url(#b403a065-efe8-431e-8454-f6e9147cf2ef)"/>
+  <g style="opacity: 0.5">
+    <line x1="319.11149" x2="319.11149" y2="202.54945" style="fill: #4591ff"/>
+    <g>
+      <line x1="319.11161" x2="319.11161" y2="2.5" style="fill: none;stroke: #fff;stroke-miterlimit: 10"/>
+      <line x1="319.11161" y1="7.56537" x2="319.11161" y2="197.51677" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-dasharray: 5.065370559692383,5.065370559692383"/>
+      <line x1="319.11161" y1="200.04945" x2="319.11161" y2="202.54945" style="fill: none;stroke: #fff;stroke-miterlimit: 10"/>
+    </g>
+  </g>
+  <circle cx="319.11149" cy="82.3186" r="31.58076" style="opacity: 0.5;fill: url(#e8627704-f0aa-480b-a147-761875f72083)"/>
+  <circle cx="319.11149" cy="82.3186" r="9.42691" style="fill: #4591ff;stroke: #fff;stroke-miterlimit: 10;opacity: 0.5"/>
+</svg>

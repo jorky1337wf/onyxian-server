@@ -1,0 +1,17 @@
+<svg id="b4dc12e6-272f-49ce-b561-3942a1e5596a" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1152.3091 1152.3091">
+  <defs>
+    <linearGradient id="bb08a41e-3fac-4268-b7db-d4c4ea512a72" data-name="Безымянный градиент 42" x1="933.30907" y1="496.65205" x2="1020.20994" y2="496.65205" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#005fe8"/>
+      <stop offset="1" stop-color="#005fe8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="a712e072-59c6-4ef8-b65c-b4a2af1b2e62" x1="933.30907" y1="496.65205" x2="1020.20994" y2="496.65205" gradientTransform="translate(980.98683 397.65991) rotate(180)" xlink:href="#bb08a41e-3fac-4268-b7db-d4c4ea512a72"/>
+  </defs>
+  <title>large-comet</title>
+  <g>
+    <circle cx="576.15455" cy="576.15455" r="575.90436" style="fill: none;stroke: #005fe8;stroke-miterlimit: 10;stroke-width: 0.5px;opacity: 0.25"/>
+    <path d="M1019.29174,426.94871a575.90391,575.90391,0,0,1-85.21243,139.165" transform="translate(85.66113 377.32459)" style="fill: none;stroke-miterlimit: 10;stroke-width: 2px;stroke: url(#bb08a41e-3fac-4268-b7db-d4c4ea512a72)"/>
+    <circle cx="1019.74424" cy="943.44148" r="2.93244" style="fill: #005fe8"/>
+    <path d="M-38.3049-29.2888a575.904,575.904,0,0,1,85.21242-139.165" transform="translate(85.66113 377.32459)" style="fill: none;stroke-miterlimit: 10;stroke-width: 2px;stroke: url(#a712e072-59c6-4ef8-b65c-b4a2af1b2e62)"/>
+    <circle cx="132.56486" cy="208.86762" r="2.93244" style="fill: #005fe8"/>
+  </g>
+</svg>
